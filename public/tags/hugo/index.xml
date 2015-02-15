@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>http://aranw.co.uk/</link>
+    <link>http://aranw.co.uk/tags/hugo/</link>
     <language>en-us</language>
     <author>Aran Wilkinson</author>
     <rights>(C) 2015</rights>
@@ -25,10 +25,6 @@
 &lt;p&gt;They&amp;rsquo;re many different static site generators available; &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;, &lt;a href=&#34;http://octopress.org/&#34;&gt;Octopress&lt;/a&gt;, &lt;a href=&#34;http://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt; and many more. I personally went with Hugo because of it being built with GoLang. GoLang is a programming language that I am looking to learn and use.  I thought running a blog generated with by a tool that was built in GoLang would be a good way to learn the programming language.&lt;/p&gt;
 </description>
         </item>
-      
-    
-      
-    
       
     
 
