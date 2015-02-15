@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://aranw.co.uk/</loc>
+    <lastmod>2015-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://aranw.co.uk/2015/02/09/static-sites-using-hugo/</loc>
+    <lastmod>2015-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aranw.co.uk/404/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aranw.co.uk/about/</loc>
+    <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

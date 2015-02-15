@@ -1,0 +1,20 @@
+{
+    "contentdir": "content",
+    "layoutdir": "layouts",
+    "publishdir": "public",
+
+    "builddrafts": false,
+
+    "baseurl": "http://aranw.co.uk/",
+    "canonifyurls": true,
+    "permalinks": {
+        "post": ":year/:month/:day/:title/",
+        "fixed": ":title/"
+    },
+
+    "params": {
+        "Title": "Aran Wilkinson",
+        "Author": "Aran Wilkinson",
+        "DateForm": "2 Jan 2006"
+    }
+}

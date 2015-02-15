@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> </title>
+    <link>http://aranw.co.uk/</link>
+    <language>en-us</language>
+    <author>Aran Wilkinson</author>
+    <rights>(C) 2015</rights>
+    <updated>2015-02-09 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>Static Sites Using Hugo</title>
+          <link>http://aranw.co.uk/2015/02/09/static-sites-using-hugo/</link>
+          <pubDate>Mon, 09 Feb 2015 00:00:00 UTC</pubDate>
+          <author>Aran Wilkinson</author>
+          <guid>http://aranw.co.uk/2015/02/09/static-sites-using-hugo/</guid>
+          <description>&lt;p&gt;Hugo is a static site generator, Hugo is built using Go and generates static HTML files with no dependencies on expensive runtimes like PHP, Ruby or Python and without the need for a database.&lt;/p&gt;
+
+&lt;p&gt;Hugo uses Markdown files for content and generates flat HTML files for pages. With Hugo being built with Go the static HTML files can be generated in seconds and can generates 1000s of pages in seconds too.&lt;/p&gt;
+
+&lt;p&gt;For my latest attempt at running a blog, I didn&amp;rsquo;t want the complexity of a system like Wordpress or other similar blog platforms. I also didn&amp;rsquo;t want implement my own blog platform using a framework. I wanted a simple flat static site with HTML to reduce the risk of vulnerability to bugs. Using a framework or blogging platform would mean I&amp;rsquo;d need to update the system if a bug was reported.&lt;/p&gt;
+
+&lt;p&gt;They&amp;rsquo;re many different static site generators out available; Jekyll, Octopress, Pelican and many more. I personally went with Hugo because of it being built with GoLang. GoLang is a programming language am looking to learn and use, so I thought running a blog generated with Hugo would be a good way to learn the language.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
