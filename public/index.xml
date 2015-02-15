@@ -6,17 +6,17 @@
     <language>en-us</language>
     <author>Aran Wilkinson</author>
     <rights>(C) 2015</rights>
-    <updated>2015-02-09 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-02-15 00:00:00 &#43;0000 UTC</updated>
 
     
       
         <item>
           <title>Static Sites Using Hugo</title>
-          <link>http://aranw.co.uk/2015/02/09/static-sites-using-hugo/</link>
-          <pubDate>Mon, 09 Feb 2015 00:00:00 UTC</pubDate>
+          <link>http://aranw.co.uk/2015/02/15/static-sites-using-hugo/</link>
+          <pubDate>Sun, 15 Feb 2015 00:00:00 UTC</pubDate>
           <author>Aran Wilkinson</author>
-          <guid>http://aranw.co.uk/2015/02/09/static-sites-using-hugo/</guid>
-          <description>&lt;p&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is &amp;ldquo;A Fast &amp;amp; Modern Static Website Engine&amp;rdquo; or basically a static site generator it&amp;rsquo;s built using &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt; and generates static HTML files with no dependencies on expensive backend runtimes like PHP, Ruby or Python and without the need for a database.&lt;/p&gt;
+          <guid>http://aranw.co.uk/2015/02/15/static-sites-using-hugo/</guid>
+          <description>&lt;p&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is &amp;ldquo;A Fast &amp;amp; Modern Static Website Engine&amp;rdquo; or a static site generator. Hugo is built using &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt; and generates static HTML files with no dependencies on expensive backend runtimes like PHP, Ruby or Python and without the need for a database.&lt;/p&gt;
 
 &lt;p&gt;Hugo uses Markdown files for content and generates the flat HTML files for pages, posts and whatever you have setup in the configuration. With Hugo being built with Go the static HTML files can be generated in seconds and it can generates 1000s of pages in seconds too.&lt;/p&gt;
 

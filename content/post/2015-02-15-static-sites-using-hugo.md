@@ -3,7 +3,7 @@
     "date": "2015-02-15"
 }
 
-[Hugo](http://gohugo.io/) is "A Fast &amp; Modern Static Website Engine" or basically a static site generator it's built using [Go](http://golang.org/) and generates static HTML files with no dependencies on expensive backend runtimes like PHP, Ruby or Python and without the need for a database.
+[Hugo](http://gohugo.io/) is "A Fast &amp; Modern Static Website Engine" or a static site generator. Hugo is built using [Go](http://golang.org/) and generates static HTML files with no dependencies on expensive backend runtimes like PHP, Ruby or Python and without the need for a database.
 
 Hugo uses Markdown files for content and generates the flat HTML files for pages, posts and whatever you have setup in the configuration. With Hugo being built with Go the static HTML files can be generated in seconds and it can generates 1000s of pages in seconds too.
 
